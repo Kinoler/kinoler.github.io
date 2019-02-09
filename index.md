@@ -9,3 +9,8 @@ My interests include:
 
 Recent Projects
 - Graphic WPF application that allows you to view information about the composition of an arbitrary .NET assembly. The application has implemented such design patterns as MVVM, INotifyPropertyChanged, ICommand. As well as unit tests with coverage of all the basic functions.
+
+### LINKS
+
+Link to my codewars profile
+https://www.codewars.com/users/Kinoler
