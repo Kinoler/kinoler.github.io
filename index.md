@@ -15,7 +15,7 @@ Recent Projects
 Link to my codewars profile
 https://www.codewars.com/users/Kinoler
 
-Codewars progress
-Basic C# coding - 19 of 19
-OOP - 0 of 11
-Data Structures - 0 of 6
+Codewars progress:
+- Basic C# coding - 19 of 19
+- OOP - 0 of 11
+- Data Structures - 0 of 6
