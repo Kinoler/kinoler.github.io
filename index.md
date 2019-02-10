@@ -18,4 +18,4 @@ https://www.codewars.com/users/Kinoler
 Codewars progress:
 - Basic C# coding - 19 of 19
 - OOP - 11 of 11
-- Data Structures - 4 of 6
+- Data Structures - 6 of 6
