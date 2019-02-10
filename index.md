@@ -21,5 +21,14 @@ https://www.codewars.com/users/Kinoler
 - Data Structures - 6 of 6
 
 ### Padawans .NET progress:
-- FancyCalc - 1 of 1
-- PadawansTask - 3 of 9 (All currently available)
+- FancyCalc - https://github.com/Kinoler/FancyCalc
+- PadawansTask1 - https://github.com/Kinoler/PadawansTask1
+- PadawansTask2 - https://github.com/Kinoler/PadawansTask2
+- PadawansTask3 - https://github.com/Kinoler/PadawansTask3
+- PadawansTask4 - Not posted
+- PadawansTask5 - Not posted
+- PadawansTask6 - Not posted
+- PadawansTask7 - Not posted
+- PadawansTask8 - Not posted
+- PadawansTask9 - Not posted
+
