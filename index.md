@@ -25,10 +25,13 @@ https://www.codewars.com/users/Kinoler
 - PadawansTask1 - https://github.com/Kinoler/PadawansTask1
 - PadawansTask2 - https://github.com/Kinoler/PadawansTask2
 - PadawansTask3 - https://github.com/Kinoler/PadawansTask3
-- PadawansTask4 - Not posted
-- PadawansTask5 - Not posted
-- PadawansTask6 - Not posted
+- PadawansTask4 - https://github.com/Kinoler/PadawansTask4
+- PadawansTask5 - https://github.com/Kinoler/PadawansTask5
+- PadawansTask6 - https://github.com/Kinoler/PadawansTask6
 - PadawansTask7 - Not posted
 - PadawansTask8 - Not posted
 - PadawansTask9 - Not posted
-
+- PadawansTask10 - Not posted
+- PadawansTask11 - Not posted
+- PadawansTask12 - Not posted
+- PadawansTask13 - https://github.com/Kinoler/PadawansTask13
